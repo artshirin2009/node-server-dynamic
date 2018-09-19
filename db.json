@@ -1,0 +1,19 @@
+{
+    "news": [{
+        "id": 1,
+        "title": "News title 1",
+        "body": "News body 1"
+    }, {
+        "id": 2,
+        "title": "News title 2",
+        "body": "News body 2"
+    }, {
+        "id": 3,
+        "title": "News title 3",
+        "body": "News body 3"
+    }, {
+        "id": 4,
+        "title": "News title 4",
+        "body": "News body 4"
+    }]
+}
