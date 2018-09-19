@@ -1,0 +1,25 @@
+{
+    "name": "node-server-dynamic",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/artshirin2009/node-server-dynamic.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/artshirin2009/node-server-dynamic/issues"
+    },
+    "homepage": "https://github.com/artshirin2009/node-server-dynamic#readme",
+    "dependencies": {
+        "express": "^4.16.3",
+        "express-handlebars": "^3.0.0",
+        "nodemon": "^1.18.4"
+    }
+}
